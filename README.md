@@ -1,10 +1,39 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Trybewarts
+
+## Sobre o Projeto
+ Este é um formulário completo em **HTML** com validação de e-mail via JavaScript.
+ Este projeto foi desenvilvido no modulo de fundamentos da trybe,este é um formulario de cadastro e login simples, onde panas
+ é possivel prencher com seus dados.
+
+## Tecnologias e Ferramentas empregadas
+
+JavaScript;
+HTML;
+CSS;
+
+## Status do Projeto
+Aplicação em funcionamento.
+
+## Acesso à Aplicação
+### Instalação e Execução
+
+Clone o repositório em sua maquina e siga os passos.
+
+1. Entrar no diretório app:
+
+    $ cd <app>
+  
+2. Abrir diretamente o arquivo index.html:
+
+3. A aplicação podera ser vizualizada em seu navegador:
+
+4. Acessar através do navegador:
+    <p>http://localhost/</p>
+
+## Contribuintes
+|Nome|GitHub|
+| -------- | -------- |
+|Janio Souza|https://github.com/Janio-Souza|
+
+## Contato
+[GitHub: Janio Souza](https://github.com/Janio-Souza)
