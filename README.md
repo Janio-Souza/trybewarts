@@ -23,7 +23,7 @@ Clone o repositório em sua maquina e siga os passos.
 
 1. Entrar no diretório app:
 
-    $ cd <app>
+    $ cd trybewarts
   
 2. Abrir diretamente o arquivo index.html:
 
@@ -31,6 +31,8 @@ Clone o repositório em sua maquina e siga os passos.
 
 4. Acessar através do navegador:
     <p>http://localhost/</p>
+5. Voce pode acessar online atraves deste link:
+   https://janio-souza.github.io/projects/project-trybewarts/index.html
 
 ## Contribuintes
 |Nome|GitHub|
