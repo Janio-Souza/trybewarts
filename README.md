@@ -4,6 +4,8 @@
  Este é um formulário completo em **HTML** com validação de e-mail via JavaScript.
  Este projeto foi desenvilvido no modulo de fundamentos da trybe,este é um formulario de cadastro e login simples, onde panas
  é possivel prencher com seus dados.
+ 
+ ![trybe-futebol-clube-1](./formulario.gif)
 
 ## Tecnologias e Ferramentas empregadas
 
